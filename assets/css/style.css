@@ -37,6 +37,7 @@ body {
 }
 .right {
   float: right;
+  text-align: center;
 }
 #social a i {
   color: #585858;
@@ -56,7 +57,7 @@ footer {
   display: inline;
 } */
 .first_into {
-  margin: 50px;
+  margin: 100px;
 }
 .CopyRight {
   font-size: 0.7rem;
@@ -68,4 +69,13 @@ footer {
   max-width: 100rem;
   margin-right: auto;
   margin-left: auto;
+}
+.top_intro {
+  padding: auto;
+}
+.body {
+  color: white;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/252/128/838/lenovo-simple-background-minimalism-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
